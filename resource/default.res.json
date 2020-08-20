@@ -1,0 +1,29 @@
+{
+	"groups": [
+		{
+			"keys": "ui_AlphaBlack_png",
+			"name": "preload"
+		},
+		{
+			"keys": "startbk_png,startlogo_png",
+			"name": "Start"
+		}
+	],
+	"resources": [
+		{
+			"url": "local/ui_AlphaBlack.png",
+			"type": "image",
+			"name": "ui_AlphaBlack_png"
+		},
+		{
+			"url": "local/startbk.png",
+			"type": "image",
+			"name": "startbk_png"
+		},
+		{
+			"url": "local/startlogo.png",
+			"type": "image",
+			"name": "startlogo_png"
+		}
+	]
+}

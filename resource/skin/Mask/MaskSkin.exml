@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="skin.Mask" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Image id="img_mask" source="ui_AlphaBlack_png"  fillMode="scale" alpha="0.7" scale9Grid="1,1,2,2"/>
+</e:Skin>

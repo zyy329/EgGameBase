@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="skin.Start" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="startbk_png" horizontalCenter="0" verticalCenter="0" width="100%" height="100%"/>
+	<e:Image source="startlogo_png" horizontalCenter="0" verticalCenter="0"/>
+</e:Skin>
